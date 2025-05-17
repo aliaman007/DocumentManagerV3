@@ -1,7 +1,7 @@
-package com.jktech.documentmanagement.controller;
+package com.main.controller;
 
-import com.jktech.documentmanagement.model.Document;
-import com.jktech.documentmanagement.service.DocumentService;
+import com.main.model.Document;
+import com.main.service.DocumentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
